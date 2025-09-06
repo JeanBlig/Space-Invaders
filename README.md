@@ -1,5 +1,6 @@
 # Space-Invaders
 One of my first pygame creations. I followed a couple tutorials and ended up with something quite addictive. 
+If you want a live preview of the game without downloading everything, check it on my website through the Games building link.
 
 # Preview
 <img width="1123" height="916" alt="image" src="https://github.com/user-attachments/assets/66a8f466-606a-4721-aadc-ab3390b31f39" />
